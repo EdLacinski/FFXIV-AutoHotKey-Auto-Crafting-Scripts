@@ -1,8 +1,14 @@
 # FFXIV-AutoHotKey-Auto-Crafting-Scripts
 A collections of scripts I have developed to help automate crafting in Final Fantasy XIV
-Reminder: These script are meant to be run using Auto Hot Key : https://www.autohotkey.com
+
 I will also update this readme as needed for if my stats change as I meld my gear and change my macros.
 
+# Requirements
+Auto Hot Key : https://www.autohotkey.com
+
+# Recomendations
+TeamCraft FFXIV: https://ffxivteamcraft.com
+Doing your OWN Macros to fit YOUR stats
 # Current Stats for classes
 
 # Carpenter
