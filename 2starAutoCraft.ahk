@@ -33,8 +33,8 @@ F2::
             
             Click, 2
             Sleep 3000
-            checkToogle(Toggle, "4", 37000)
-            checkToogle(Toggle, "3", 6000)
+            checkToogle(Toggle, "4", 40000)
+            checkToogle(Toggle, "3", 50000)
             Sleep 3000
         }
     }
